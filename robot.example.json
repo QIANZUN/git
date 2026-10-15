@@ -1,0 +1,78 @@
+{
+  "calibrated": false,
+  "gait": {
+    "upper": 80,
+    "lower": 80,
+    "height": 125,
+    "stride": 20,
+    "lift": 10,
+    "frequency": 1,
+    "duty": 0.6
+  },
+  "servos": {
+    "FL": {
+      "hip": {
+        "id": 1,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      },
+      "knee": {
+        "id": 2,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      }
+    },
+    "FR": {
+      "hip": {
+        "id": 3,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      },
+      "knee": {
+        "id": 4,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      }
+    },
+    "RL": {
+      "hip": {
+        "id": 5,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      },
+      "knee": {
+        "id": 6,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      }
+    },
+    "RR": {
+      "hip": {
+        "id": 7,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      },
+      "knee": {
+        "id": 8,
+        "zero": 500,
+        "direction": 1,
+        "min": 100,
+        "max": 900
+      }
+    }
+  }
+}
